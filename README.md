@@ -1,2 +1,0 @@
-# FizzBuzz
-#made by akisoy
